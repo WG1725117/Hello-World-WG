@@ -4,6 +4,6 @@ Learning GitHub desktop
 **bold**
 *italics*
 ~~Line.~~
-*_bold italics_*
+**_bold italics_**
 
 
