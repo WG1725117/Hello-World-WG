@@ -3,7 +3,7 @@ Learning GitHub desktop
 
 **bold**
 *italics*
-˜˜Line˜˜
+~~Line.~~
 *_bold italics_*
 
 
